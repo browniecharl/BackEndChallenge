@@ -26,7 +26,8 @@ router.get('/:id', (req, res) => {
       id: req.params.id
     },
     include: [{
-      model: ['category_name']
+      model: Category,
+      attributes: ['category_name']
     },
     {
       model: Tag,
