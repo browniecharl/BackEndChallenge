@@ -15,8 +15,8 @@ This is a backend for an ecommerce website that uses the latest technologies
 
 ## Usage
 Video of application in action
-[How to setup dependencies and fill table](https://drive.google.com/file/d/1vew_S6rMiHj4frGd5J4BEkTBPWlmlrVv/view)
-[Walkthrough video with insomnia](https://drive.google.com/file/d/1VPMn6QZt1eq9gvYZDJrH6QaKcgx4brAI/view)
+- [How to setup dependencies and fill table](https://drive.google.com/file/d/1vew_S6rMiHj4frGd5J4BEkTBPWlmlrVv/view)
+- [Walkthrough video with insomnia](https://drive.google.com/file/d/1VPMn6QZt1eq9gvYZDJrH6QaKcgx4brAI/view)
 ### Screenshot
 ![](./Develop/Screen%20Shot%202022-06-04%20at%2012.42.54%20PM.png)
 
